@@ -1,0 +1,3 @@
+components:
+  nav_drop: "components/navbar_dropdown.html"
+  nav_drop_item: "components/nav_drop_item.html"
